@@ -1,0 +1,4 @@
+pywebview
+configparser
+pymysql
+discord-webhook
